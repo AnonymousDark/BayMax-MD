@@ -17,11 +17,11 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["263780699988","13658000980"];         //If you want singal number so global.Owner = ['263780699988'] Change into your number.
-global.OwnerNumber = ["263780699988","13658000980"];   //If you want singal number so global.Owner = ['263780699988'] Change into your number.
-global.ownertag = ["263780699988"];
-global.OwnerName = "ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×";
-global.BotName = "BayMax Bot";
+global.Owner = ["255694242611","255694242611"];         //If you want singal number so global.Owner = ['263780699988'] Change into your number.
+global.OwnerNumber = ["255694242611","255694242611"];   //If you want singal number so global.Owner = ['263780699988'] Change into your number.
+global.ownertag = ["255694242611"];
+global.OwnerName = "ℙ𝔞𝔩𝔠𝔠𝔬d ツ";
+global.BotName = "ℙ.𝔠𝔬d Bot";
 global.packname = "BayMax Bot";                             //Do not change.
 global.author = "By: ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×";                               //Do not change.
 global.BotSourceCode = "https://github.com/mrjuice01/BayMax-MD"; //Do not change.
@@ -78,14 +78,14 @@ global.ntilink = []
 global.mess = {
     jobdone: 'Here you go...',
     useradmin: 'Sorry bro, only *Group Admins* can use this command',
-    botadmin: 'BayMax must be Admin first before executing this cmd..',
-    botowner: 'Sorry Only my *Owner ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×* can use this command!',
+    botadmin: 'ℙ.𝔠𝔬d must be Admin first before executing this cmd..',
+    botowner: 'Sorry Only my *Owner ℙ𝔞𝔩𝔠𝔠𝔬d ツ* can use this command!',
     grouponly: 'This command is only made for *Groups*',
     privateonly: 'This command is only made for *Private Chat*',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Just Wait...',
     nolink: 'Where is the link bro?',
-    error: 'Ups😪 BayMax Faced an error!',
+    error: 'Ups😪 ℙ.𝔠𝔬d Faced an error!',
     banned: 'You are *Banned* fron using My commands!',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
