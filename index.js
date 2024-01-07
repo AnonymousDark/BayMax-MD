@@ -14,6 +14,7 @@ const {
   proto,
 } = require("@whiskeysockets/baileys");
 const pino = require("pino");
+const keepAlive = require("./server.js");
 const fs = require("fs");
 const chalk = require("chalk");
 const FileType = require("file-type");
