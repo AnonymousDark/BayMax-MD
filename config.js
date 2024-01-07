@@ -22,10 +22,9 @@ global.OwnerNumber = ["255694242611","255694242611"];   //If you want singal num
 global.ownertag = ["255694242611"];
 global.OwnerName = "ℙ𝔞𝔩𝔠𝔠𝔬d ツ";
 global.BotName = "ℙ.𝔠𝔬d Bot";
-global.packname = "BayMax Bot";                             //Do not change.
-global.author = "By: ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×";                               //Do not change.
+global.packname = "ℙ𝔞𝔩𝔠𝔠𝔬d Bot";                             //Do not change.
+global.author = "By: ℙ𝔞𝔩𝔠𝔠𝔬d ツ";                               //Do not change.
 global.BotSourceCode = "https://github.com/mrjuice01/BayMax-MD"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji"; 
 
 
 //
@@ -39,8 +38,8 @@ global.openAiAPI = "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";
 
 //
 global.location = "Brooklyn, New York";                   
-global.reactmoji = "❤️";
-global.themeemoji = "🐦";
+global.reactmoji = "🎭";
+global.themeemoji = "🎭";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
 global.websitex = "https://github.com/mrjuice01";
 global.lolhuman = "KaysaS";
