@@ -4,7 +4,7 @@ const chalk = require("chalk");
 
 //
 global.available = true;
-global.autoReadGc = false;
+global.autoReadGc = true;
 global.autoReadAll = false;
 global.antitags = true;
 
