@@ -22,8 +22,8 @@ global.OwnerNumber = ["255694242611","255694242611"];   //If you want singal num
 global.ownertag = ["255694242611"];
 global.OwnerName = "ℙ𝔞𝔩𝔠𝔠𝔬d ツ";
 global.BotName = "ℙ.𝔠𝔬d Bot";
-global.packname = "ℙ𝔞𝔩𝔠𝔠𝔬d Bot";                             //Do not change.
-global.author = "By: ℙ𝔞𝔩𝔠𝔠𝔬d ツ";                               //Do not change.
+global.packname = "BayMax Bot";                             //Do not change.
+global.author = "By: ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×";                               //Do not change.
 global.BotSourceCode = "https://github.com/mrjuice01/BayMax-MD"; //Do not change.
 
 
